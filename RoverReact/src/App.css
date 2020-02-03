@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background:  #d2acac	;
+}
+
+.App .rover {
+  border-style: outset;
+  margin: 0 auto;
+  width: 500px;
+  height: 500px;
+}
+
+.App .btn {
+  background-color: #f1f1f1;
+  color: black;
+  font-size: 16px;
+  padding: 10px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.App .btn:hover {
+  background-color: black;
+  color: white;
+}

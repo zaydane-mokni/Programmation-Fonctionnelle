@@ -1,0 +1,25 @@
+{
+  "name": "Robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaydane-mokni/Programmation-Fonctionnelle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaydane-mokni/Programmation-Fonctionnelle/issues"
+  },
+  "homepage": "https://github.com/zaydane-mokni/Programmation-Fonctionnelle#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
